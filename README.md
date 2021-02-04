@@ -1,3 +1,3 @@
 PruebaDual
 # holaklk
-hola, que tal?
+yamete kudasai
