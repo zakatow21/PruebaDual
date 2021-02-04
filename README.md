@@ -7,3 +7,4 @@ esto aburre
 <<<<<<< HEAD
 AK AFSADFAS
 >>>>>>> main
+ramas adadek
