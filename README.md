@@ -7,4 +7,8 @@ esto aburre
 <<<<<<< HEAD
 AK AFSADFAS
 >>>>>>> main
+<<<<<<< HEAD
 ramas adadek
+=======
+esta es la secundaria
+>>>>>>> BRANKETA
